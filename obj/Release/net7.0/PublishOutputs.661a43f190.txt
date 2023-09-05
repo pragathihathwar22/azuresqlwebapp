@@ -1,0 +1,13 @@
+C:\my-az-204\MyAzureSolution\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\SqlConfigWeaApp.exe
+C:\my-az-204\MyAzureSolution\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\my-az-204\MyAzureSolution\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\my-az-204\MyAzureSolution\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\SqlConfigWeaApp.dll
+C:\my-az-204\MyAzureSolution\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\SqlConfigWeaApp.deps.json
+C:\my-az-204\MyAzureSolution\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\SqlConfigWeaApp.runtimeconfig.json
+C:\my-az-204\MyAzureSolution\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\SqlConfigWeaApp.pdb
+C:\my-az-204\MyAzureSolution\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\my-az-204\MyAzureSolution\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\my-az-204\MyAzureSolution\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\my-az-204\MyAzureSolution\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\my-az-204\MyAzureSolution\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\my-az-204\MyAzureSolution\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
